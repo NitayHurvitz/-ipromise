@@ -1,5 +1,4 @@
 files/123.txt
 files/hi
-notafile
 files/try
 README.md
